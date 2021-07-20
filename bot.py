@@ -19,11 +19,11 @@ PARAGRAPH_3 = "Sure, the world is full of petty competition, poverty, war, " \
 
 PARAGRAPH_4 = "Funnily enough, whenever I think about all the darkness that " \
             "collectively faces humankind, I'm reminded by a quote from Lord " \
-            "of the Rings: \"It's like in the great stories... the ones that " \
-            "really mattered. Full of darkness and danger they were... " \
+            "of the Rings: \"It's like in the great stories, the ones that " \
+            "really mattered. Full of darkness and danger they were. " \
             "Those were the stories that stayed with you. That meant " \
             "something, even if you were too small to understand why. " \
-            "But I think... I do understand... There's some good in this " \
+            "But I think I do understand. There's some good in this " \
             "world, and it's worth fighting for\" (See: " \
             "https://youtu.be/IOmtjCfuRvc) \n \n"
 
