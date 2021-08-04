@@ -1,4 +1,4 @@
-# Crisis_Reddit_Bot
+# Crisis Reddit Bot
 A bot intended to redirect Reddit users experiencing suicidal ideation to appropriate resources. Made with the PRAW API and a little bit of ❤.
 
 ## How it works:
